@@ -1,0 +1,22 @@
+{
+  "name": "qamasterclass_",
+  "version": "1.0.0",
+  "description": "## Excercise 1: Simple Calculator Test",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnastasiiaYaitska/QAMasterclass_.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnastasiiaYaitska/QAMasterclass_/issues"
+  },
+  "homepage": "https://github.com/AnastasiiaYaitska/QAMasterclass_#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.41.1",
+    "@types/node": "^20.11.5"
+  }
+}
